@@ -14,25 +14,26 @@ The repository contains these folders:
 
 There are currently 19 different keycap models available:
 
-| Model                         | Description                                                                                                                      |
-|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| **Saddle Homing**             | A saddle-shaped keycap, similar to the Chicago Steno keycaps, with three little bumps, commonly used for home row index fingers. |
-| **Saddle**                    | A saddle-shaped keycap, similar to the Chicago Steno keycaps.                                                                    |
-| **Dished Homing**             | A normal dished keycap with three little bumps, commonly used for home row index fingers.                                        |
-| **Dished**                    | A normal dished keycap.                                                                                                          |
-| **Tilted 7°**                 | Same as **Dished**, but top profile has a 7° tilt and the front is lowered.                                                      |
-| **Tilted 14°**                | Same as **Dished**, but top profile has a 14° tilt and the front is lowered.                                                     |
-| **Tilted 7° Dished**          | Same as **Tilted 7°**, but the top profile is dished.                                                                            |
-| **Tilted 14° Dished**         | Same as **Tilted 14°**, but the top profile is dished.                                                                           |
-| **Tilted 7° Dished R4**       | Same as **Tilted 7° Dished**, but higher profile for the top row.                                                                |
-| **Tilted 14° Dished R4**      | Same as **Tilted 14° Dished**, but higher profile for the top row.                                                               |
-| **Tilted 7° Slanted 10°**     | Same as **Tilted 7°**, but the top profile is slanted 10° to the left/right (two variants).                                      |
-| **Tilted 14° Slanted 10°**    | Same as **Tilted 14°**, but the top profile is slanted 10° to the left/right (two variants).                                     |
-| **Tilted 14° Double Slanted** | Same as **Tilted 14°**, but the top profile is slanted to both sides, intended to go between two tilted keycaps.                 |
-| **Saddle Lower Side**         | Same as **Saddle**, but one side is lowered to have a better transition to the **Double Slanted** keycap.                        |
-| **Saddle Lower Side Homing**  | Same as **Saddle Homing**, but one side is lowered to have a better transition to the **Double Slanted** keycap.                 |
-| **Thumb**                     | Same as **Dished**, but with a lowered front side.                                                                               |
-| **Tilted 7° 1.5u**            | Same as **Tilted 7°**, but 1.5u size.                                                                                            |
+| Model                         | Description                                                                                                                      | STL                                                         | Fusion 360                                                        |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------|
+| **Saddle Homing**             | A saddle-shaped keycap, similar to the Chicago Steno keycaps, with three little bumps, commonly used for home row index fingers. | <a href="stl/CLP_Saddle_Homing v2.stl">Download</a>         | <a href="fusion360/CLP_Saddle_Homing v2.stl">Download</a>         |
+| **Saddle**                    | A saddle-shaped keycap, similar to the Chicago Steno keycaps.                                                                    | <a href="stl/CLP_Saddle v2.stl">Download</a>                | <a href="fusion360/CLP_Saddle v2.stl">Download</a>                |
+| **Dished Homing**             | A normal dished keycap with three little bumps, commonly used for home row index fingers.                                        | <a href="stl/CLP_Dished_Homing v6.stl">Download</a>         | <a href="fusion360/CLP_Dished_Homing v6.stl">Download</a>         |
+| **Dished**                    | A normal dished keycap.                                                                                                          | <a href="stl/CLP_Dished v3.stl">Download</a>                | <a href="fusion360/CLP_Dished v3.stl">Download</a>                |
+| **Tilted 7°**                 | Same as **Dished**, but top profile has a 7° tilt and the front is lowered.                                                      | <a href="stl/CLP_Tilt7 v8.stl">Download</a>                 | <a href="fusion360/CLP_Tilt7 v8.stl">Download</a>                 |
+| **Tilted 14°**                | Same as **Dished**, but top profile has a 14° tilt and the front is lowered.                                                     | <a href="stl/CLP_Tilt14 v10.stl">Download</a>               | <a href="fusion360/CLP_Tilt14 v10.stl">Download</a>               |
+| **Tilted 7° Dished**          | Same as **Tilted 7°**, but the top profile is dished.                                                                            | <a href="stl/CLP_Dished_Tilt7 v3.stl">Download</a>          | <a href="fusion360/CLP_Dished_Tilt7 v3.stl">Download</a>          |
+| **Tilted 14° Dished**         | Same as **Tilted 14°**, but the top profile is dished.                                                                           | <a href="stl/CLP_Dished_Tilt14 v3.stl">Download</a>         | <a href="fusion360/CLP_Dished_Tilt14 v3.stl">Download</a>         |
+| **Tilted 7° Dished R4**       | Same as **Tilted 7° Dished**, but higher profile for the top row.                                                                | <a href="stl/CLP_Dished_Tilt7_R4 v8.stl">Download</a>       | <a href="fusion360/CLP_Dished_Tilt7_R4 v8.stl">Download</a>       |
+| **Tilted 14° Dished R4**      | Same as **Tilted 14° Dished**, but higher profile for the top row.                                                               | <a href="stl/CLP_Dished_Tilt14_R4 v8.stl">Download</a>      | <a href="fusion360/CLP_Dished_Tilt14_R4 v8.stl">Download</a>      |
+| **Tilted 7° Slanted 10°**     | Same as **Tilted 7°**, but the top profile is slanted 10° to the left/right (two variants).                                      | <a href="stl/CLP_Tilt7_Slant10 v17.stl">Download</a>        | <a href="fusion360/CLP_Tilt7_Slant10 v17.stl">Download</a>        |
+| **Tilted 14° Slanted 10°**    | Same as **Tilted 14°**, but the top profile is slanted 10° to the left/right (two variants).                                     | <a href="stl/CLP_Tilt14_Slant10 v15.stl">Download</a>       | <a href="fusion360/CLP_Tilt14_Slant10 v15.stl">Download</a>       |
+| **Tilted 14° Double Slanted** | Same as **Tilted 14°**, but the top profile is slanted to both sides, intended to go between two tilted keycaps.                 | <a href="stl/CLP_Tilt14_Doubleslant v6.stl">Download</a>    | <a href="fusion360/CLP_Tilt14_Doubleslant v6.stl">Download</a>    |
+| **Saddle Lower Side**         | Same as **Saddle**, but one side is lowered to have a better transition to the **Double Slanted** keycap.                        | <a href="stl/CLP_Saddle_LowSide v5.stl">Download</a>        | <a href="fusion360/CLP_Saddle_LowSide v5.stl">Download</a>        |
+| **Saddle Lower Side Homing**  | Same as **Saddle Homing**, but one side is lowered to have a better transition to the **Double Slanted** keycap.                 | <a href="stl/CLP_Saddle_LowSide_Homing v1.stl">Download</a> | <a href="fusion360/CLP_Saddle_LowSide_Homing v1.stl">Download</a> |
+| **Thumb**                     | Same as **Dished**, but with a lowered front side.                                                                               | <a href="stl/CLP_Thumb v8.stl">Download</a>                 | <a href="fusion360/CLP_Thumb v8.stl">Download</a>                 |
+| **Tilted 7° 1.5u**            | Same as **Tilted 7°**, but 1.5u size.                                                                                            | <a href="stl/CLP_Tilt7_1_5u v13.stl">Download</a>           | <a href="fusion360/CLP_Tilt7_1_5u v13.stl">Download</a>           |
+
 
 ## How to print?
 
